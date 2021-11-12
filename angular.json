@@ -4,7 +4,7 @@
   "newProjectRoot": "projects",
   "projects": {
     "material-dashboard-angular": {
-      "root": "",
+      "root": "https://halimatuz.github.io/tryangular/",
       "sourceRoot": "src",
       "projectType": "application",
       "architect": {
